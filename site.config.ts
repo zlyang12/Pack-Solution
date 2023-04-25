@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Grace',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Pack solutions',
 
   // social usernames (optional)
   twitter: '',
